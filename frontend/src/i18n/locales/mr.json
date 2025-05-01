@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "jobs": "नोकरी",
+    "training": "प्रशिक्षण",
+    "certifications": "प्रमाणपत्रे",
+    "profile": "प्रोफाइल",
+    "dashboard": "डॅशबोर्ड",
+    "login": "लॉगिन",
+    "register": "नोंदणी",
+    "logout": "लॉगआउट"
+  },
+  "training": {
+    "title": "प्रशिक्षण विभाग",
+    "post": "प्रशिक्षण मॉड्यूल पोस्ट करा",
+    "search": "प्रशिक्षणासाठी शोधा",
+    "postDescription": "नवीन प्रशिक्षण मॉड्यूल तयार करा आणि पोस्ट करा",
+    "searchDescription": "प्रशिक्षण मॉड्यूल शोधा आणि नोंदणी करा",
+    "form": {
+      "title": "प्रशिक्षण शीर्षक",
+      "description": "वर्णन",
+      "category": "श्रेणी",
+      "duration": "कालावधी",
+      "level": "स्तर",
+      "prerequisites": "पूर्वापेक्षा",
+      "instructor": "प्रशिक्षक",
+      "price": "किंमत",
+      "format": "स्वरूप",
+      "videoUrl": "व्हिडिओ URL",
+      "videoUrlPlaceholder": "तुमच्या प्रशिक्षण व्हिडिओचे URL प्रविष्ट करा"
+    },
+    "categories": {
+      "technology": "तंत्रज्ञान",
+      "business": "व्यवसाय",
+      "healthcare": "आरोग्य सेवा",
+      "education": "शिक्षण"
+    },
+    "levels": {
+      "beginner": "प्रारंभिक",
+      "intermediate": "मध्यम",
+      "advanced": "प्रगत"
+    },
+    "formats": {
+      "online": "ऑनलाइन",
+      "inPerson": "वैयक्तिक",
+      "hybrid": "संकर"
+    }
+  }
+} 

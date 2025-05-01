@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "jobs": "નોકરી",
+    "training": "તાલીમ",
+    "certifications": "પ્રમાણપત્રો",
+    "profile": "પ્રોફાઇલ",
+    "dashboard": "ડેશબોર્ડ",
+    "login": "લૉગિન",
+    "register": "નોંધણી",
+    "logout": "લૉગઆઉટ"
+  },
+  "training": {
+    "title": "તાલીમ વિભાગ",
+    "post": "તાલીમ મોડ્યુલ પોસ્ટ કરો",
+    "search": "તાલીમ માટે શોધો",
+    "postDescription": "નવું તાલીમ મોડ્યુલ બનાવો અને પોસ્ટ કરો",
+    "searchDescription": "તાલીમ મોડ્યુલ્સ શોધો અને નોંધણી કરો",
+    "form": {
+      "title": "તાલીમ શીર્ષક",
+      "description": "વર્ણન",
+      "category": "શ્રેણી",
+      "duration": "અવધિ",
+      "level": "સ્તર",
+      "prerequisites": "પૂર્વજરૂરિયાતો",
+      "instructor": "શિક્ષક",
+      "price": "કિંમત",
+      "format": "ફોર્મેટ",
+      "videoUrl": "વિડિયો URL",
+      "videoUrlPlaceholder": "તમારા તાલીમ વિડિયોનું URL દાખલ કરો"
+    },
+    "categories": {
+      "technology": "ટેક્નોલોજી",
+      "business": "વ્યવસાય",
+      "healthcare": "આરોગ્ય સંભાળ",
+      "education": "શિક્ષણ"
+    },
+    "levels": {
+      "beginner": "પ્રારંભિક",
+      "intermediate": "મધ્યમ",
+      "advanced": "ઉન્નત"
+    },
+    "formats": {
+      "online": "ઓનલાઇન",
+      "inPerson": "વ્યક્તિગત",
+      "hybrid": "હાઇબ્રિડ"
+    }
+  }
+} 

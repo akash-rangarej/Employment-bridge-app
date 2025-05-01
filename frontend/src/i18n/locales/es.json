@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "jobs": "Trabajos",
+    "training": "Formación",
+    "certifications": "Certificaciones",
+    "profile": "Perfil",
+    "dashboard": "Panel",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar Sesión"
+  },
+  "training": {
+    "title": "Sección de Formación",
+    "post": "Publicar Módulo de Formación",
+    "search": "Buscar Formación",
+    "postDescription": "Crear y publicar un nuevo módulo de formación",
+    "searchDescription": "Buscar y matricularse en módulos de formación",
+    "form": {
+      "title": "Título de la Formación",
+      "description": "Descripción",
+      "category": "Categoría",
+      "duration": "Duración",
+      "level": "Nivel",
+      "prerequisites": "Prerrequisitos",
+      "instructor": "Instructor",
+      "price": "Precio",
+      "format": "Formato"
+    },
+    "categories": {
+      "technology": "Tecnología",
+      "business": "Negocios",
+      "healthcare": "Salud",
+      "education": "Educación"
+    },
+    "levels": {
+      "beginner": "Principiante",
+      "intermediate": "Intermedio",
+      "advanced": "Avanzado"
+    },
+    "formats": {
+      "online": "En línea",
+      "inPerson": "Presencial",
+      "hybrid": "Híbrido"
+    }
+  }
+} 

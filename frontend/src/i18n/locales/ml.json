@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "jobs": "ജോലികൾ",
+    "training": "പരിശീലനം",
+    "certifications": "സർട്ടിഫിക്കറ്റുകൾ",
+    "profile": "പ്രൊഫൈൽ",
+    "dashboard": "ഡാഷ്‌ബോർഡ്",
+    "login": "ലോഗിൻ",
+    "register": "രജിസ്റ്റർ",
+    "logout": "ലോഗ് ഔട്ട്"
+  },
+  "training": {
+    "title": "പരിശീലന വിഭാഗം",
+    "post": "പരിശീലന മൊഡ്യൂൾ പോസ്റ്റ് ചെയ്യുക",
+    "search": "പരിശീലനത്തിനായി തിരയുക",
+    "postDescription": "പുതിയ പരിശീലന മൊഡ്യൂൾ സൃഷ്ടിച്ച് പോസ്റ്റ് ചെയ്യുക",
+    "searchDescription": "പരിശീലന മൊഡ്യൂളുകൾ തിരയുക, രജിസ്റ്റർ ചെയ്യുക",
+    "form": {
+      "title": "പരിശീലന ശീർഷകം",
+      "description": "വിവരണം",
+      "category": "വിഭാഗം",
+      "duration": "കാലാവധി",
+      "level": "നില",
+      "prerequisites": "മുൻഗതന ആവശ്യങ്ങൾ",
+      "instructor": "പരിശീലകൻ",
+      "price": "വില",
+      "format": "ഫോർമാറ്റ്",
+      "videoUrl": "വീഡിയോ URL",
+      "videoUrlPlaceholder": "നിങ്ങളുടെ പരിശീലന വീഡിയോ URL നൽകുക"
+    },
+    "categories": {
+      "technology": "സാങ്കേതികവിദ്യ",
+      "business": "ബിസിനസ്സ്",
+      "healthcare": "ആരോഗ്യ സംരക്ഷണം",
+      "education": "വിദ്യാഭ്യാസം"
+    },
+    "levels": {
+      "beginner": "ആരംഭ",
+      "intermediate": "ഇന്റർമീഡിയറ്റ്",
+      "advanced": "അഡ്വാൻസ്ഡ്"
+    },
+    "formats": {
+      "online": "ഓൺലൈൻ",
+      "inPerson": "വ്യക്തിഗത",
+      "hybrid": "ഹൈബ്രിഡ്"
+    }
+  }
+} 

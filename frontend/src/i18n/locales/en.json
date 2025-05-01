@@ -1,0 +1,131 @@
+{
+  "nav": {
+    "home": "Home",
+    "jobs": "Jobs",
+    "training": "Training",
+    "language": "Language"
+  },
+  "training": {
+    "title": "Training Modules",
+    "post": "Post Training Module",
+    "search": "Search Training",
+    "postDescription": "Create and post a new training module",
+    "searchDescription": "Find training modules to enhance your skills",
+    "noModules": "No training modules found",
+    "error": "Error loading training modules. Please try again later.",
+    "viewDetails": "View Details",
+    "startTraining": "Start Training",
+    "completeTraining": "Complete Training",
+    "markCompleted": "Mark as Completed",
+    "showCertificate": "Show Certificate",
+    "certificate": {
+      "title": "Certificate of Completion",
+      "subtitle": "This is to certify that",
+      "hasSuccessfully": "has successfully completed",
+      "theTrainingModule": "the training module",
+      "on": "on",
+      "issuedBy": "Issued by",
+      "validUntil": "Valid until",
+      "certificateId": "Certificate ID"
+    },
+    "form": {
+      "title": "Training Title",
+      "description": "Description",
+      "category": "Category",
+      "duration": "Duration",
+      "level": "Level",
+      "prerequisites": "Prerequisites",
+      "instructor": "Instructor",
+      "price": "Price",
+      "format": "Format",
+      "videoUrl": "Video URL",
+      "videoUrlPlaceholder": "Enter the URL of your training video"
+    },
+    "categories": {
+      "technology": "Technology",
+      "business": "Business",
+      "healthcare": "Healthcare",
+      "education": "Education"
+    },
+    "levels": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "formats": {
+      "online": "Online",
+      "inPerson": "In Person",
+      "hybrid": "Hybrid"
+    }
+  },
+  "certifications": {
+    "title": "Certifications",
+    "trainer": {
+      "title": "Trainer Certificate",
+      "description": "Certificate for training module instructors",
+      "issue": "Issue Trainer Certificate",
+      "list": "My Trainer Certificates"
+    },
+    "learner": {
+      "title": "Learner Certificate",
+      "description": "Certificate for completing training modules",
+      "issue": "Issue Learner Certificate",
+      "list": "My Learner Certificates"
+    },
+    "common": {
+      "verify": "Verify Certificate",
+      "certificateId": "Certificate ID",
+      "issueDate": "Issue Date",
+      "status": "Status",
+      "score": "Score",
+      "module": "Training Module",
+      "trainer": "Trainer",
+      "learner": "Learner"
+    },
+    "form": {
+      "title": "Certificate Details",
+      "subtitle": "Please fill in your details to generate your certificate",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name as it should appear on the certificate",
+      "type": "Certificate Type",
+      "score": "Completion Score",
+      "scorePlaceholder": "Enter your score",
+      "scoreDescription": "Enter your score as a percentage (0-100)",
+      "trainer": "Trainer Certificate",
+      "learner": "Course Completion Certificate",
+      "trainerDescription": "Select this if you are the instructor of this training module",
+      "learnerDescription": "Select this if you have completed this training module",
+      "cancel": "Cancel",
+      "submit": "Generate Certificate"
+    }
+  },
+  "jobs": {
+    "title": "Job Listings",
+    "filters": "Filters",
+    "jobType": "Job Type",
+    "location": "Location",
+    "sector": "Sector",
+    "allTypes": "All Types",
+    "locationPlaceholder": "Enter location",
+    "sectorPlaceholder": "Enter sector",
+    "noJobs": "No jobs found matching your criteria",
+    "viewDetails": "View Details",
+    "formal": "Formal Jobs",
+    "formalDescription": "Corporate, Full-time positions",
+    "informal": "Informal Jobs",
+    "informalDescription": "Freelance, Part-time, Gig work",
+    "error": "Error loading jobs. Please try again later.",
+    "description": "Job Description",
+    "requirements": "Requirements",
+    "postedOn": "Posted on",
+    "applyNow": "Apply Now",
+    "backToList": "Back to Job Listings",
+    "notFound": "Job not found"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred. Please try again.",
+    "success": "Operation completed successfully.",
+    "all": "All"
+  }
+} 

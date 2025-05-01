@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "jobs": "ਨੌਕਰੀਆਂ",
+    "training": "ਪ੍ਰਸ਼ਿਕਸ਼ਣ",
+    "certifications": "ਸਰਟੀਫਿਕੇਟ",
+    "profile": "ਪ੍ਰੋਫਾਇਲ",
+    "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+    "login": "ਲੌਗ ਇਨ",
+    "register": "ਰਜਿਸਟਰ",
+    "logout": "ਲੌਗ ਆਉਟ"
+  },
+  "training": {
+    "title": "ਪ੍ਰਸ਼ਿਕਸ਼ਣ ਭਾਗ",
+    "post": "ਪ੍ਰਸ਼ਿਕਸ਼ਣ ਮੋਡੀਊਲ ਪੋਸਟ ਕਰੋ",
+    "search": "ਪ੍ਰਸ਼ਿਕਸ਼ਣ ਲਈ ਖੋਜੋ",
+    "postDescription": "ਨਵਾਂ ਪ੍ਰਸ਼ਿਕਸ਼ਣ ਮੋਡੀਊਲ ਬਣਾਓ ਅਤੇ ਪੋਸਟ ਕਰੋ",
+    "searchDescription": "ਪ੍ਰਸ਼ਿਕਸ਼ਣ ਮੋਡੀਊਲ ਖੋਜੋ ਅਤੇ ਰਜਿਸਟਰ ਕਰੋ",
+    "form": {
+      "title": "ਪ੍ਰਸ਼ਿਕਸ਼ਣ ਸਿਰਲੇਖ",
+      "description": "ਵਰਣਨ",
+      "category": "ਸ਼੍ਰੇਣੀ",
+      "duration": "ਅਵਧੀ",
+      "level": "ਸਤਰ",
+      "prerequisites": "ਪੂਰਵ-ਜ਼ਰੂਰਤਾਂ",
+      "instructor": "ਪ੍ਰਸ਼ਿਕਸ਼ਕ",
+      "price": "ਕੀਮਤ",
+      "format": "ਫਾਰਮੈਟ",
+      "videoUrl": "ਵੀਡੀਓ URL",
+      "videoUrlPlaceholder": "ਆਪਣੇ ਪ੍ਰਸ਼ਿਕਸ਼ਣ ਵੀਡੀਓ ਦਾ URL ਦਰਜ ਕਰੋ"
+    },
+    "categories": {
+      "technology": "ਟੈਕਨਾਲੋਜੀ",
+      "business": "ਵਪਾਰ",
+      "healthcare": "ਸਿਹਤ ਸੰਭਾਲ",
+      "education": "ਸਿੱਖਿਆ"
+    },
+    "levels": {
+      "beginner": "ਸ਼ੁਰੂਆਤੀ",
+      "intermediate": "ਮੱਧਮ",
+      "advanced": "ਉੱਨਤ"
+    },
+    "formats": {
+      "online": "ਆਨਲਾਈਨ",
+      "inPerson": "ਵਿਅਕਤੀਗਤ",
+      "hybrid": "ਹਾਈਬ੍ਰਿਡ"
+    }
+  }
+} 

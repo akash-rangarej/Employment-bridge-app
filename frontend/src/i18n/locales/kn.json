@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "jobs": "ಉದ್ಯೋಗಗಳು",
+    "training": "ತರಬೇತಿ",
+    "certifications": "ಪ್ರಮಾಣಪತ್ರಗಳು",
+    "profile": "ಪ್ರೊಫೈಲ್",
+    "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "login": "ಲಾಗಿನ್",
+    "register": "ನೋಂದಾಯಿಸಿ",
+    "logout": "ಲಾಗ್ ಔಟ್"
+  },
+  "training": {
+    "title": "ತರಬೇತಿ ವಿಭಾಗ",
+    "post": "ತರಬೇತಿ ಮಾಡ್ಯೂಲ್ ಪೋಸ್ಟ್ ಮಾಡಿ",
+    "search": "ತರಬೇತಿಗಾಗಿ ಹುಡುಕಿ",
+    "postDescription": "ಹೊಸ ತರಬೇತಿ ಮಾಡ್ಯೂಲ್ ರಚಿಸಿ ಮತ್ತು ಪೋಸ್ಟ್ ಮಾಡಿ",
+    "searchDescription": "ತರಬೇತಿ ಮಾಡ್ಯೂಲ್ಗಳನ್ನು ಹುಡುಕಿ ಮತ್ತು ನೋಂದಾಯಿಸಿ",
+    "form": {
+      "title": "ತರಬೇತಿ ಶೀರ್ಷಿಕೆ",
+      "description": "ವಿವರಣೆ",
+      "category": "ವರ್ಗ",
+      "duration": "ಅವಧಿ",
+      "level": "ಮಟ್ಟ",
+      "prerequisites": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "instructor": "ಬೋಧಕ",
+      "price": "ಬೆಲೆ",
+      "format": "ಸ್ವರೂಪ",
+      "videoUrl": "ವೀಡಿಯೊ URL",
+      "videoUrlPlaceholder": "ನಿಮ್ಮ ತರಬೇತಿ ವೀಡಿಯೊ URL ಅನ್ನು ನಮೂದಿಸಿ"
+    },
+    "categories": {
+      "technology": "ತಂತ್ರಜ್ಞಾನ",
+      "business": "ವ್ಯವಹಾರ",
+      "healthcare": "ಆರೋಗ್ಯ ಸಂರಕ್ಷಣೆ",
+      "education": "ಶಿಕ್ಷಣ"
+    },
+    "levels": {
+      "beginner": "ಪ್ರಾರಂಭಿಕ",
+      "intermediate": "ಮಧ್ಯಮ",
+      "advanced": "ಮುಂದುವರಿದ"
+    },
+    "formats": {
+      "online": "ಆನ್‌ಲೈನ್",
+      "inPerson": "ವ್ಯಕ್ತಿಗತ",
+      "hybrid": "ಹೈಬ್ರಿಡ್"
+    }
+  }
+} 

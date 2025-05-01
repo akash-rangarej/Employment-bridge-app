@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "jobs": "ఉద్యోగాలు",
+    "training": "అభ్యాసం",
+    "certifications": "ప్రమాణపత్రాలు",
+    "profile": "ప్రొఫైల్",
+    "dashboard": "డాష్‌బోర్డ్",
+    "login": "ప్రవేశించండి",
+    "register": "నమోదు",
+    "logout": "నిష్క్రమించు"
+  },
+  "training": {
+    "title": "అభ్యాస విభాగం",
+    "post": "అభ్యాస మాడ్యూల్ పోస్ట్ చేయండి",
+    "search": "అభ్యాసం కోసం శోధించండి",
+    "postDescription": "కొత్త అభ్యాస మాడ్యూల్‌ని సృష్టించి పోస్ట్ చేయండి",
+    "searchDescription": "అభ్యాస మాడ్యూల్స్ కోసం శోధించి నమోదు చేసుకోండి",
+    "form": {
+      "title": "అభ్యాస శీర్షిక",
+      "description": "వివరణ",
+      "category": "వర్గం",
+      "duration": "కాల వ్యవధి",
+      "level": "స్థాయి",
+      "prerequisites": "ముందుగా అవసరమైనవి",
+      "instructor": "అధ్యాపకుడు",
+      "price": "ధర",
+      "format": "ఫార్మాట్",
+      "videoUrl": "వీడియో URL",
+      "videoUrlPlaceholder": "మీ అభ్యాస వీడియో URL ని నమోదు చేయండి"
+    },
+    "categories": {
+      "technology": "టెక్నాలజీ",
+      "business": "వ్యాపారం",
+      "healthcare": "ఆరోగ్య సంరక్షణ",
+      "education": "విద్య"
+    },
+    "levels": {
+      "beginner": "ప్రారంభ",
+      "intermediate": "మధ్యస్థ",
+      "advanced": "అధునాతన"
+    },
+    "formats": {
+      "online": "ఆన్‌లైన్",
+      "inPerson": "వ్యక్తిగత",
+      "hybrid": "హైబ్రిడ్"
+    }
+  }
+} 
