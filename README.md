@@ -55,7 +55,7 @@ A platform that bridges the informal sector and digital employment in India, pro
 
 5. Run the Flask application:
    ```bash
-   flask run
+   python app.py
    ```
 
 ### Frontend Setup
